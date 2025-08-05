@@ -1,0 +1,126 @@
+div{
+  padding-left:0;
+  margin: 5px;
+  margin-top: 20px;
+  text-align: center;
+  font-family: sans-serif;
+}
+.section-one{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  width: 1920px;
+  
+}
+.section-one__bar{
+color: grey;
+}
+.section-two{
+  color: white;
+  background-color: black;
+  width: 250px;
+  height: 435px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  display: inline-block;
+  vertical-align: top;
+}
+.section-two__img{
+padding-top: 10px;
+}
+.section-three{
+  color: white;
+  background-color: black;
+  width: 250px;
+  height: 435px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  display: inline-block;
+}
+.section-three__img{
+padding-top: 10px;
+}
+.section-four{
+  color: white;
+  background-color: black;
+  width: 250px;
+  height: 435px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  display: inline-block;
+  vertical-align: top;
+}
+.section-four__img{
+padding-top: 10px;
+}
+.section-five{
+  color: white;
+  background-color: black;
+  width: 250px;
+  height: 435px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  display: inline-block;
+  vertical-align: top;
+}
+.section-five__img{
+padding-top: 10px;
+}
+.section-button{
+   background-color: #04AA6D;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  
+}
+.section-footer{
+  margin: auto;
+  padding: 5px;
+  font-weight: 200;
+}
+.footer-button{
+background-color:darkgoldenrod;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.section-footer__contact{
+  margin-bottom: 10px;
+}
+.footer{
+  margin: 10px;
+background-color: black;  
+color: white;
+margin-top: 20px;
+margin-bottom: 20px;
+display: inline-block;
+width: 1920px;
+height: 275px;
+}
+.background{
+  background-repeat: none;
+}
+
+
